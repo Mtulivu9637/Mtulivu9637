@@ -1,6 +1,6 @@
 # Readme
 # 💫 About Me:
-Seasoned software engineer with expertise in full-stack development, specializing in building scalable web applications. I have a track record of delivering high-quality code that meets client requirements. My technical skills include proficiency in JavaScript, Python, and Java, along with frameworks such as React and Django. I thrive in collaborative environments, leveraging agile methodologies to drive project success and innovation
+I'm a seasoned software engineer with expertise in full-stack development, specializing in building scalable web applications. I have a track record of delivering high-quality code that meets client requirements. My technical skills include proficiency in JavaScript, Python, and Java, along with frameworks such as React and Django. I thrive in collaborative environments, leveraging agile methodologies to drive project success and innovation
 
 
 ## 🌐 Socials:
