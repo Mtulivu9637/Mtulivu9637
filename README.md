@@ -1,5 +1,19 @@
-# 💫 About Me:
-# 👋 Hey there, I'm Simba!<br><br>Welcome to my GitHub! I'm a passionate **software developer**, **tech enthusiast**, and lifelong **problem solver** who loves turning ideas into impactful digital solutions. Whether I’m crafting clean, scalable code or architecting full-stack applications, I thrive on building tools that make life easier, smarter, and more connected.<br><br>💡 I specialize in:<br>- 🧠 Performance engineering & system optimization  <br>- 🛡️ Cybersecurity & secure system design  <br>- 🧱 Full-stack development (React, Node.js, Python, PostgreSQL)  <br>- 🧰 DevOps practices & automation<br><br>Currently working on:  <br>🚀 SaaS platforms, developer tools, and AI-powered projects that bridge creativity with technology.<br><br>Let’s build the future, one commit at a time.  <br>**Feel free to explore, star ⭐️, or fork any project — and don’t hesitate to connect!**<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kidd-mtulivu-312a6727b/)  <br>[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet)](https://bobsimba.netlify.app)<br><br>
+# 👋 Hey there, I'm Simba!
+
+Welcome to my GitHub! I'm a passionate **software developer**, **tech enthusiast**, and lifelong **problem solver** who loves turning ideas into impactful digital solutions. Whether I’m crafting clean, scalable code or architecting full-stack applications, I thrive on building tools that make life easier, smarter, and more connected.
+
+💡 I specialize in:
+- 🧠 Performance engineering & system optimization  
+- 🛡️ Cybersecurity & secure system design  
+- 🧱 Full-stack development (React, Node.js, Python, PostgreSQL)  
+- 🧰 DevOps practices & automation
+
+Currently working on:  
+🚀 SaaS platforms, developer tools, and AI-powered projects that bridge creativity with technology.
+
+Let’s build the future, one commit at a time.  
+**Feel free to explore, star ⭐️, or fork any project — and don’t hesitate to connect!**
+
 
 
 ## 🌐 Socials:
